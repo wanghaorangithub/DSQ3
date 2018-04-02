@@ -24,6 +24,15 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="expresstree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="exchange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mystack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
